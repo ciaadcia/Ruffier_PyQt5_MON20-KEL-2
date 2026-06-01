@@ -12,7 +12,7 @@ LINK REPO
 | Name            | Link |
 |-----------------|---------|
 | Hisyam     | [Hisyam](https://github.com/hisyamrasyiq-coder/prject.git) |
-| Muammar       | https://github.com/amarr4054-dot/project1.git |
+| Muammar       | [Muammar](https://github.com/amarr4054-dot/project1.git) |
 | Rafa   | [Rafa](https://github.com/Fanjester7/Iya-aja.git) |
 
 DAY 1
