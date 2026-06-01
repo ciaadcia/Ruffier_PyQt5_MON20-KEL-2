@@ -31,9 +31,9 @@ DAY 2
 | second_winP2.py   | Rafa  |
 | final_win.py    | Hisyam  |
 
-DAY 2
+DAY 3
 | File            | Name |
 |-----------------|---------|
-| second_win.py       |  |
-| instr.py        |  |
-| final_win.py    |  |
+| second_win.py       | Hisyam |
+| instr.py        | Rafa |
+| final_win.py    | Muammar |
