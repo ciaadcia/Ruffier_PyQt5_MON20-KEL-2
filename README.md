@@ -26,7 +26,14 @@ DAY 1
 DAY 2
 | File            | Name |
 |-----------------|---------|
-| second_winP1.py       |  |
+| second_winP1.py       | Muammar  |
+| instr.py        | Hisyam  |
+| second_winP2.py   | Rafa  |
+| final_win.py    | Hisyam  |
+
+DAY 2
+| File            | Name |
+|-----------------|---------|
+| second_win.py       |  |
 | instr.py        |  |
-| second_winP2.py   |  |
 | final_win.py    |  |
